@@ -1,0 +1,7 @@
+Tento soubor popisuje strukturu toho repozitáře.
+
+- Eclipse Projekt 	- Jedná se o složku projektu Java. Pro vývoj byl využíván Eclipse.
+	
+
+- Spustitelný program	- SimonkyUltimatniProgramek.jar (Spustitelný jar soubor)
+			- Files (Složka s daty k programu, je potřeba aby pro správnou funkčnosti byl ve stejné složce jako soubor SimonkyUltimatniProgramek.jar)
